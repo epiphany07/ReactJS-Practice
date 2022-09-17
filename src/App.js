@@ -1,9 +1,11 @@
 import "../src/App.css";
-import MyCart from "./components/MyCart";
+import CricScore from "./components/CricScore";
+//import MyCart from "./components/MyCart";
 function App() {
   return (
     <div>
-      <MyCart />
+      {/* <MyCart /> */}
+      <CricScore />
     </div>
   );
 }
